@@ -1,0 +1,33 @@
+_repo: The-Londoners-An-Absurdity_68809
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hichens, Robert
+    aliases:
+    - Hichens, Robert Smythe
+    - Hichens, Robert S. (Robert Smythe)
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '919'
+    url: http://www.gutenberg.org/2009/agents/919
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Hichens_(writer)
+description: ''
+gutenberg_issued: '2022-08-22'
+identifiers:
+  gutenberg: '68809'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/coo.31924013625904
+pgterms:marc905: 20201228112146hichens
+pgterms:marc906: '1912'
+pgterms:marc907: DE
+production_note: Tim Lindell, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: Germany :Bernhard Tauchnitz,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Londoners: An Absurdity'
+url: http://www.gutenberg.org/ebooks/68809
